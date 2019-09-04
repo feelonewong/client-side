@@ -1,2 +1,2 @@
-let num: number = 123;
-console.log(num);
+//lesson 1 basic-type.ts
+import './example/1.basic-type'
